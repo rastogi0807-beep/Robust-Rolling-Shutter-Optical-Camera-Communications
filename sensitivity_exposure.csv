@@ -1,0 +1,21 @@
+exposure_group,method,errors,bits,BER
+0–0.75,Calibrated physics inverse,41,5760,0.007118055555555555
+0–0.75,Data-only gradient boosting,136,5760,0.02361111111111111
+0–0.75,Nominal model (fixed timing),1076,5760,0.18680555555555556
+0–0.75,Proposed physics + residual ML,0,5760,0.0
+0–0.75,Raw midpoint threshold,861,5760,0.14947916666666666
+0.75–1.00,Calibrated physics inverse,149,6432,0.023165422885572138
+0.75–1.00,Data-only gradient boosting,207,6432,0.032182835820895525
+0.75–1.00,Nominal model (fixed timing),1001,6432,0.1556281094527363
+0.75–1.00,Proposed physics + residual ML,19,6432,0.0029539800995024876
+0.75–1.00,Raw midpoint threshold,1144,6432,0.17786069651741293
+1.00–1.30,Calibrated physics inverse,386,11424,0.03378851540616246
+1.00–1.30,Data-only gradient boosting,694,11424,0.060749299719887954
+1.00–1.30,Nominal model (fixed timing),1901,11424,0.16640406162464985
+1.00–1.30,Proposed physics + residual ML,58,11424,0.00507703081232493
+1.00–1.30,Raw midpoint threshold,2798,11424,0.24492296918767506
+1.30–1.70,Calibrated physics inverse,452,5184,0.08719135802469136
+1.30–1.70,Data-only gradient boosting,700,5184,0.13503086419753085
+1.30–1.70,Nominal model (fixed timing),1194,5184,0.23032407407407407
+1.30–1.70,Proposed physics + residual ML,91,5184,0.017554012345679014
+1.30–1.70,Raw midpoint threshold,1558,5184,0.3005401234567901
